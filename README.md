@@ -13,11 +13,11 @@ Cette classe contient les 3 méthodes principales :
 
  - supprimer_chemin : qui supprime une liste de pixels passée en paramètre, cette méthode sera appelé pour réduire la largeur de l'image.
  - remettre_chemin : c'est l'inverse de la méthode précédente, elle sera appelé pour agrandir la largeur de l'image après avoir la réduire (taille max = taille initiale de l'image).
- - min_energie : qui retourne pour chaque seam,son la liste des énergies de chaque seam, ordonnée par ordre croissant    
+ - min_energie : qui retourne un dictionnaire qui contient pour chaque valeur d'énergie un seam, et e dictionnaire sera ordonée   
 
  
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDA2NDgxMzZdfQ==
+eyJoaXN0b3J5IjpbLTc2NDUzOTEyXX0=
 -->
