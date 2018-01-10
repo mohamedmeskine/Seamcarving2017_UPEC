@@ -7,9 +7,9 @@ La démarche adoptée pour ce travail consiste en premier lieu de représenter u
  - hauteur et largeur : représentent respectivement les dimensions de l'image.
  - premier : objet de type Pixel, et qui représente le premier pixel de l'image (coin haut gauche).
 
-le constructeur de cette classe consiste à partir d'un tableau de couleur qui représente l'image 
+le constructeur de cette classe consiste à partir d'un tableau de couleur qui représente l'image, de traduire chaque case du tableau en  
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzMwNjMxODBdfQ==
+eyJoaXN0b3J5IjpbMTAyNzc2OTQ4MF19
 -->
