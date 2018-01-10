@@ -8,7 +8,7 @@ l'objet Pixel est définis par :
 
  - Gauche ,Droite, Haut, Bas : ces attributs servent a pointer sur les pixels adjacent au pixel dans l'image.
  - Couleur : attribut de la classe Couleur qui contient les 3 attributs R, V, B, qui représentent respectivement la valeur des couleurs rouge, vert, bleu, pour un pixel donné.
- - Energie
+ - Energie : l'énergie de chaque pixel. 
 
 l'objet image a trois attributs :
 
@@ -27,5 +27,5 @@ Cette classe contient les 3 méthodes principales :
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjU2MTAyMV19
+eyJoaXN0b3J5IjpbMTg1ODcwNTA0MV19
 -->
