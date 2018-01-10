@@ -6,7 +6,12 @@ La démarche adoptée pour ce travail consiste en premier lieu de représenter u
 
 l'objet Pixel est définis par :
 
- - List item
+ - Gauche : le pixel
+ - Droite
+ - Haut
+ - Bas
+ - Couleur
+ - Energie
 
 l'objet image a trois attributs :
 
@@ -25,5 +30,5 @@ Cette classe contient les 3 méthodes principales :
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODc0ODI5NF19
+eyJoaXN0b3J5IjpbLTExMTQ0NDgzMDFdfQ==
 -->
