@@ -6,8 +6,8 @@ La démarche adoptée pour ce travail consiste en premier lieu de représenter u
 
 l'objet Pixel est définis par :
 
- - Gauche ,Droite, Haut, Bas : ces attributs servent a pointer sur les pixels adjacent du pixel dans l'image
- - Couleur
+ - Gauche ,Droite, Haut, Bas : ces attributs servent a pointer sur les pixels adjacent au pixel dans l'image.
+ - Couleur : attribut de la classe Couleur qui contient les 3 attrib
  - Energie
 
 l'objet image a trois attributs :
@@ -27,5 +27,5 @@ Cette classe contient les 3 méthodes principales :
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyMTc1NDY1XX0=
+eyJoaXN0b3J5IjpbLTE3Nzc4MDU1MDNdfQ==
 -->
