@@ -4,9 +4,10 @@ L'idée est de calculer puis supprimer les chemins d’énergie minimale jusqu�
 # Approche utilisée
 La démarche adoptée pour ce travail consiste en premier lieu de représenter une image comme un objet ayant trois attributs :
 
- - hauteur et largeur : représentent 
+ - hauteur et largeur : représentent respectivement les dimensions de l'image.
+ - premier : objet de type Pixel, et qui
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzU1MzkxNV19
+eyJoaXN0b3J5IjpbMTgwODM5MDIwMV19
 -->
