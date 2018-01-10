@@ -27,8 +27,7 @@ Cette classe contient les 3 méthodes principales :
 
 
 # Installation 
-
  Pour le chargement de l'image nous avons utilisé "PIL.Image".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MDYyNzE2M119
+eyJoaXN0b3J5IjpbMTMzNzI2ODM5N119
 -->
