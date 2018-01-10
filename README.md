@@ -6,7 +6,7 @@ La démarche adoptée pour ce travail consiste en premier lieu de représenter u
 
 l'objet Pixel est définis par :
 
- - Gauche ,Droite, Haut, Bas : les pixels adjacent dans l'image
+ - Gauche ,Droite, Haut, Bas : ces attributs servent a pointer sur les pixels adjacent du pixel dans l'image
  - Couleur
  - Energie
 
@@ -27,5 +27,5 @@ Cette classe contient les 3 méthodes principales :
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDcyNjc1MjJdfQ==
+eyJoaXN0b3J5IjpbNTAyMTc1NDY1XX0=
 -->
