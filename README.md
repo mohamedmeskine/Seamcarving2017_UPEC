@@ -12,11 +12,11 @@ le constructeur de cette classe consiste à partir d'un tableau de couleur qui r
 Cette classe contient les 2 méthodes :
 
  - supprimer_chemin : qui supprime une liste de pixels passée en paramètre, cette méthode sera appelé pour réduire la largeur de l'image.
- - remettre_chemin : c'est l'inverse de la méthode précédente, elle sera appelé pour r   
+ - remettre_chemin : c'est l'inverse de la méthode précédente, elle sera appelé pour agrandir la largeur de l'image après avoir la réduire (taille max = taille initiale de l'image).
 
  
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjY0OTgxNTVdfQ==
+eyJoaXN0b3J5IjpbMzM3NTEwMTM1XX0=
 -->
