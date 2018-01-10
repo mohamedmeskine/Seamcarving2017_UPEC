@@ -22,12 +22,9 @@ Cette classe contient les 3 méthodes principales :
  - supprimer_chemin : qui supprime une liste de pixels passée en paramètre, cette méthode sera appelé pour réduire la largeur de l'image.
  - remettre_chemin : c'est l'inverse de la méthode précédente, elle sera appelé pour agrandir la largeur de l'image après avoir la réduire (taille max = taille initiale de l'image).
  - min_energie : qui retourne un dictionnaire qui contient pour chaque valeur d'énergie un seam, et ce dictionnaire sera ordonné selon la valeur d'énergie. 
- 
-
-
 
 # Installation 
  Pour le chargement de l'image nous avons utilisé "PIL.Image".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzI2ODM5N119
+eyJoaXN0b3J5IjpbMTg4MTYwNzU2NV19
 -->
