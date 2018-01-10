@@ -4,9 +4,9 @@ L'idée est de calculer puis supprimer les chemins d’énergie minimale jusqu�
 # Approche utilisée
 La démarche adoptée pour ce travail consiste en premier lieu de représenter une image comme un objet ayant trois attributs :
 
- - hauteur et largeur 
+ - hauteur et largeur : représente 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2OTgyMDY2XX0=
+eyJoaXN0b3J5IjpbLTExNjQ1MDA0MDVdfQ==
 -->
