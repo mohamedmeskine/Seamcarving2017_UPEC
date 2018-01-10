@@ -11,11 +11,11 @@ le constructeur de cette classe consiste à partir d'un tableau de couleur qui r
 
 Cette classe contient les 2 méthodes :
 
- - supprimer_chemin : qui supprime une liste de pixels passée en paramètre, cette méthode sera appelé lorsu 
+ - supprimer_chemin : qui supprime une liste de pixels passée en paramètre, cette méthode sera appelé lorsu'on  
 
  
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTMwMDA2MF19
+eyJoaXN0b3J5IjpbLTEwNTkyNzQxMjJdfQ==
 -->
