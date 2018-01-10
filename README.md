@@ -9,14 +9,15 @@ La démarche adoptée pour ce travail consiste en premier lieu de représenter u
 
 le constructeur de cette classe consiste à partir d'un tableau de couleur qui représente l'image, de traduire chaque case du tableau a un objet Pixel.
 
-Cette classe contient les 2 méthodes :
+Cette classe contient les 3 méthodes principales :
 
  - supprimer_chemin : qui supprime une liste de pixels passée en paramètre, cette méthode sera appelé pour réduire la largeur de l'image.
  - remettre_chemin : c'est l'inverse de la méthode précédente, elle sera appelé pour agrandir la largeur de l'image après avoir la réduire (taille max = taille initiale de l'image).
+ - min_energi
 
  
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3NTEwMTM1XX0=
+eyJoaXN0b3J5IjpbLTE3Nzc4MjYzMThdfQ==
 -->
