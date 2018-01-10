@@ -11,11 +11,11 @@ le constructeur de cette classe consiste à partir d'un tableau de couleur qui r
 
 Cette classe contient les 2 méthodes :
 
- - supprimer_chemin : qui supprime une liste 
+ - supprimer_chemin : qui supprime une liste de pixels passée en paramètre, cette méthode sera appelé lors du redimensionnement  
 
  
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTMyMjI2NTJdfQ==
+eyJoaXN0b3J5IjpbMjAzODM3NTcwMF19
 -->
