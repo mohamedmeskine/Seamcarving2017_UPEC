@@ -11,11 +11,11 @@ le constructeur de cette classe consiste à partir d'un tableau de couleur qui r
 
 Cette classe contient les 2 méthodes :
 
- - supprimer_chemin : qui supprime une liste
+ - supprimer_chemin : qui supprime une liste 
 
  
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDI3OTQ3Ml19
+eyJoaXN0b3J5IjpbLTEzOTMyMjI2NTJdfQ==
 -->
