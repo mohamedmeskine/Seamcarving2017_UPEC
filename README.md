@@ -9,9 +9,13 @@ La démarche adoptée pour ce travail consiste en premier lieu de représenter u
 
 le constructeur de cette classe consiste à partir d'un tableau de couleur qui représente l'image, de traduire chaque case du tableau a un objet Pixel.
 
-Cette  
+Cette classe contient les 2 méthodes :
+
+ - supprimer_chemin : qui supprime un chemin 
+
+ 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTYwNzEyNDRdfQ==
+eyJoaXN0b3J5IjpbMTAwNDA3NDQ0Ml19
 -->
