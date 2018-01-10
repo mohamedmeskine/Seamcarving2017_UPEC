@@ -6,10 +6,7 @@ La démarche adoptée pour ce travail consiste en premier lieu de représenter u
 
 l'objet Pixel est définis par :
 
- - Gauche : le pixel
- - Droite
- - Haut
- - Bas
+ - Gauche ,Droite, Haut, Bas : les pixels adjacent dans l'image
  - Couleur
  - Energie
 
@@ -30,5 +27,5 @@ Cette classe contient les 3 méthodes principales :
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQ0NDgzMDFdfQ==
+eyJoaXN0b3J5IjpbLTEwNDcyNjc1MjJdfQ==
 -->
