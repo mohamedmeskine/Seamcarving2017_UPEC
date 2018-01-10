@@ -7,7 +7,7 @@ La démarche adoptée pour ce travail consiste en premier lieu de représenter u
 l'objet Pixel est définis par :
 
  - Gauche ,Droite, Haut, Bas : ces attributs servent a pointer sur les pixels adjacent au pixel dans l'image.
- - Couleur : attribut de la classe Couleur qui contient les 3 attributs 
+ - Couleur : attribut de la classe Couleur qui contient les 3 attributs R, V, B, qui représentent respectivement la valeur des couleurs rouge, vert, bleu, pour un pixel donné.
  - Energie
 
 l'objet image a trois attributs :
@@ -27,5 +27,5 @@ Cette classe contient les 3 méthodes principales :
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1MjczOTQxXX0=
+eyJoaXN0b3J5IjpbMTU1NjU2MTAyMV19
 -->
