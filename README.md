@@ -2,7 +2,7 @@
 Le but de de ce projet, est de redimensionner une image intelligemment : c'est à dire lors du redimensionnement les informations importantes ne soient pas effacées, déformées ou trop altérées visuellement.
 L'idée est de calculer puis supprimer les chemins d’énergie minimale jusqu’à ce que l’image aie atteint la taille souhaitée.
 # Approche utilisée
-Pour 
+La démarche adoptée pour ce travail consiste en premier lieu de représenter une image autant que  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjg1Njc4OF19
+eyJoaXN0b3J5IjpbLTUwMDY3MDEzOF19
 -->
