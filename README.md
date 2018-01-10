@@ -9,9 +9,9 @@ La démarche adoptée pour ce travail consiste en premier lieu de représenter u
 
 le constructeur de cette classe consiste à partir d'un tableau de couleur qui représente l'image, de traduire chaque case du tableau a un objet Pixel.
 
-Ce 
+Cettt 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4NDMwOTU5XX0=
+eyJoaXN0b3J5IjpbLTExMTA4MzgwNTVdfQ==
 -->
