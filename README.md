@@ -24,7 +24,7 @@ Cette classe contient les 3 méthodes principales :
  - min_energie : qui retourne un dictionnaire qui contient pour chaque valeur d'énergie un seam, et ce dictionnaire sera ordonné selon la valeur d'énergie. 
  
  # Installation
- Pour le chargement de l'image nous avons utilisé 
+ Pour le chargement de l'image nous avons utilisé "PIL.Image".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA4MTEyOV19
+eyJoaXN0b3J5IjpbMTk3OTk3OTI0MV19
 -->
