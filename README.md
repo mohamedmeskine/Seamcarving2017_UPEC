@@ -4,13 +4,13 @@ L'idée est de calculer puis supprimer les chemins d’énergie minimale jusqu�
 # Approche utilisée
 La démarche adoptée pour ce travail consiste en premier lieu de représenter un objet Pixel et un objet Image.
 
-l'objet Pixel est définis par :
+L'objet Pixel est définis par :
 
  - Gauche ,Droite, Haut, Bas : ces attributs servent a pointer sur les pixels adjacent au pixel dans l'image.
  - Couleur : attribut de la classe Couleur qui contient les 3 attributs R, V, B, qui représentent respectivement la valeur des couleurs rouge, vert, bleu, pour un pixel donné.
  - Energie : l'énergie de chaque pixel. 
 
-l'objet image a trois attributs :
+L'objet image a trois attributs :
 
  - hauteur et largeur : représentent respectivement les dimensions de l'image.
  - premier : objet de type Pixel, et qui représente le premier pixel de l'image (coin haut gauche).
@@ -27,5 +27,5 @@ Cette classe contient les 3 méthodes principales :
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODcwNTA0MV19
+eyJoaXN0b3J5IjpbMjEwODQ0NzM3N119
 -->
